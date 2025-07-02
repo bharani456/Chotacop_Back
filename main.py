@@ -542,4 +542,4 @@ async def bulk_upload_quiz(data: BulkUploadRequest):
 
 @app.get("/")
 def read_root():
-    return {"message": "Hell0, from FastAPI!"}
+    return {"message": "Hellooo, from FastAPI!"}
