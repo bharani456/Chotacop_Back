@@ -2,7 +2,7 @@
   {
     "email": "kvel@vtyarns.com",
     "user_id": "df92a148-c80a-44f1-a69d-013470f9f3bb",
-    "chapter": "erode",
+    "chapter": "ALL_Chapter",
     "created_at": "2025-07-02T09:15:16.355296"
   },
   {
@@ -40,5 +40,11 @@
     "user_id": "daecf542-97a9-46ce-9143-5f73f25aac2d",
     "chapter": "Thoothukudi",
     "created_at": "2025-07-02T10:01:27.235311"
+  },
+  {
+    "email": "bs.gokulnath18@gmail.com",
+    "user_id": "63981454-b8c1-44e8-9026-e920509cec4d",
+    "chapter": "erode",
+    "created_at": "2025-07-02T18:08:33.680491"
   }
 ]

@@ -3,6 +3,7 @@ import uuid
 import json
 import smtplib
 import logging
+import time
 from pathlib import Path
 from typing import List
 from datetime import datetime
@@ -162,6 +163,22 @@ class SendOTPRequest(BaseModel):
 
 
 
+last_push_time = 0
+
+def sync_git(commit_message: str = "Auto sync from API"):
+    global last_push_time
+    now = time.time()
+    if now - last_push_time < 10:
+        return  # Avoid pushing too often
+    last_push_time = now
+    try:
+        os.system("git add .")
+        os.system(f'git commit --allow-empty -m "{commit_message}"')
+        os.system("git push origin main > /dev/null 2>&1")  # Silent push
+        logger.info("✅ Git synced successfully.")
+    except Exception as e:
+        logger.error(f"❌ Git sync failed: {e}")
+
 # API: Signup
 @app.post("/signup", response_model=UserResponse)
 async def signup(request: SignUpRequest):
@@ -181,6 +198,7 @@ async def signup(request: SignUpRequest):
     users.append(user)
     write_json_file(USERS_FILE, users)
     logger.info(f"User signed up: {request.email}")
+    sync_git("Auto sync from /signup")
     return user
 
 # API: Signin
@@ -215,6 +233,7 @@ async def upload_quiz(data: QuizSubmission):
         logger.info(f"Quiz submitted for: {quiz['email']}")
     
     write_json_file(QUIZ_SUBMISSIONS_FILE, submissions)
+    sync_git("Auto sync from /upload")
     return {"message": "Quiz submission saved successfully"}
 
 # API: Check if Email Exists
@@ -357,6 +376,7 @@ async def update_observation(request: Request):
     
     write_json_file(CHAPTER_OBSERVATIONS_FILE, observations)
     logger.info(f"Updated observation for chapter: {chapter}")
+    sync_git("Auto sync from /update-observation")
     return {"message": "Observation data added or updated"}
 
 
@@ -517,8 +537,9 @@ async def bulk_upload_quiz(data: BulkUploadRequest):
     
     write_json_file(QUIZ_SUBMISSIONS_FILE, submissions)
     logger.info(f"Bulk uploaded {len(data.submissions)} quiz submissions for chapter: {data.chapter}, school: {data.school}")
+    sync_git("Auto sync from /bulk-upload")
     return {"message": f"Successfully uploaded {len(data.submissions)} quiz submissions"}
 
 @app.get("/")
 def read_root():
-    return {"message": "Hello from FastAPI!"}
+    return {"message": "Hel from FastAPI!"}
