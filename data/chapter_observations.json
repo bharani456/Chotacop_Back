@@ -1,0 +1,1200 @@
+[
+  {
+    "chapter": "Vellore",
+    "data": {
+      "Rathinagiri Bageerathan Matric Hr Sec School": [
+        {
+          "q": "If on Two wheeler did the rider and pillion wear helmet",
+          "yes": 80,
+          "no": 20
+        },
+        {
+          "q": "If in car did driver and passangers wear seat belt",
+          "yes": 70,
+          "no": 30
+        },
+        {
+          "q": "Did rider / driver do excessive Honking",
+          "yes": 39,
+          "no": 61
+        },
+        {
+          "q": "Did rider / driver follow traffic singal",
+          "yes": 87,
+          "no": 13
+        },
+        {
+          "q": "During red signal did rider / driver follow stop with stop line",
+          "yes": 86,
+          "no": 14
+        },
+        {
+          "q": "Did rider / driver use cell phone while riding/driving",
+          "yes": 33,
+          "no": 67
+        },
+        {
+          "q": "Did rider / driver frequently changed lanes",
+          "yes": 43,
+          "no": 57
+        },
+        {
+          "q": "Did rider / driver drive in no entry",
+          "yes": 34,
+          "no": 66
+        },
+        {
+          "q": "Did they give way to pedestrians",
+          "yes": 76,
+          "no": 24
+        },
+        {
+          "q": "If in auto did they over load the auto",
+          "yes": 45,
+          "no": 55
+        },
+        {
+          "q": "If you were on two wheeler did you triple ride",
+          "yes": 53,
+          "no": 47
+        },
+        {
+          "q": "Did your rider/driver have driving licence and insurrance",
+          "yes": 87,
+          "no": 13
+        }
+      ],
+      "Shrishti Vidhyashram Sr. Sec School": [
+        {
+          "q": "If on Two wheeler did the rider and pillion wear helmet",
+          "yes": 85,
+          "no": 15
+        },
+        {
+          "q": "If in car did driver and passangers wear seat belt",
+          "yes": 82,
+          "no": 18
+        },
+        {
+          "q": "Did rider / driver do excessive Honking",
+          "yes": 45,
+          "no": 55
+        },
+        {
+          "q": "Did rider / driver follow traffic singal",
+          "yes": 92,
+          "no": 8
+        },
+        {
+          "q": "During red signal did rider / driver follow stop with stop line",
+          "yes": 88,
+          "no": 12
+        },
+        {
+          "q": "Did rider / driver use cell phone while riding/driving",
+          "yes": 43,
+          "no": 57
+        },
+        {
+          "q": "Did rider / driver frequently changed lanes",
+          "yes": 35,
+          "no": 65
+        },
+        {
+          "q": "Did rider / driver drive in no entry",
+          "yes": 28,
+          "no": 72
+        },
+        {
+          "q": "Did they give way to pedestrians",
+          "yes": 83,
+          "no": 17
+        },
+        {
+          "q": "If in auto did they over load the auto",
+          "yes": 34,
+          "no": 66
+        },
+        {
+          "q": "If you were on two wheeler did you triple ride",
+          "yes": 45,
+          "no": 55
+        },
+        {
+          "q": "Did your rider/driver have driving licence and insurrance",
+          "yes": 91,
+          "no": 9
+        }
+      ],
+      "Vani Vidyalaya CBSE School": [
+        {
+          "q": "If on Two wheeler did the rider and pillion wear helmet",
+          "yes": 76,
+          "no": 24
+        },
+        {
+          "q": "If in car did driver and passangers wear seat belt",
+          "yes": 86,
+          "no": 14
+        },
+        {
+          "q": "Did rider / driver do excessive Honking",
+          "yes": 65,
+          "no": 35
+        },
+        {
+          "q": "Did rider / driver follow traffic singal",
+          "yes": 88,
+          "no": 12
+        },
+        {
+          "q": "During red signal did rider / driver follow stop with stop line",
+          "yes": 92,
+          "no": 8
+        },
+        {
+          "q": "Did rider / driver use cell phone while riding/driving",
+          "yes": 73,
+          "no": 27
+        },
+        {
+          "q": "Did rider / driver frequently changed lanes",
+          "yes": 58,
+          "no": 42
+        },
+        {
+          "q": "Did rider / driver drive in no entry",
+          "yes": 45,
+          "no": 55
+        },
+        {
+          "q": "Did they give way to pedestrians",
+          "yes": 76,
+          "no": 24
+        },
+        {
+          "q": "If in auto did they over load the auto",
+          "yes": 43,
+          "no": 57
+        },
+        {
+          "q": "If you were on two wheeler did you triple ride",
+          "yes": 62,
+          "no": 38
+        },
+        {
+          "q": "Did your rider/driver have driving licence and insurrance",
+          "yes": 86,
+          "no": 14
+        }
+      ],
+      "Mother Matric Hr Sec School, kalavai": [
+        {
+          "q": "If on Two wheeler did the rider and pillion wear helmet",
+          "yes": 60,
+          "no": 40
+        },
+        {
+          "q": "If in car did driver and passangers wear seat belt",
+          "yes": 65,
+          "no": 35
+        },
+        {
+          "q": "Did rider / driver do excessive Honking",
+          "yes": 35,
+          "no": 65
+        },
+        {
+          "q": "Did rider / driver follow traffic singal",
+          "yes": 83,
+          "no": 17
+        },
+        {
+          "q": "During red signal did rider / driver follow stop with stop line",
+          "yes": 89,
+          "no": 11
+        },
+        {
+          "q": "Did rider / driver use cell phone while riding/driving",
+          "yes": 45,
+          "no": 55
+        },
+        {
+          "q": "Did rider / driver frequently changed lanes",
+          "yes": 74,
+          "no": 26
+        },
+        {
+          "q": "Did rider / driver drive in no entry",
+          "yes": 24,
+          "no": 76
+        },
+        {
+          "q": "Did they give way to pedestrians",
+          "yes": 87,
+          "no": 13
+        },
+        {
+          "q": "If in auto did they over load the auto",
+          "yes": 64,
+          "no": 36
+        },
+        {
+          "q": "If you were on two wheeler did you triple ride",
+          "yes": 77,
+          "no": 23
+        },
+        {
+          "q": "Did your rider/driver have driving licence and insurrance",
+          "yes": 82,
+          "no": 18
+        }
+      ]
+    },
+    "updated_at": "2025-07-02T09:24:04.155139"
+  },
+  {
+    "chapter": "Bhopal",
+    "data": {
+      "GOV. GIRLS HR. SEC. SCHOOL MANDIDEEP": [
+        {
+          "q": "If on Two wheeler did the rider and pillion wear helmet",
+          "yes": 1050,
+          "no": 450
+        },
+        {
+          "q": "If in car did driver and passangers wear seat belt",
+          "yes": 1100,
+          "no": 400
+        },
+        {
+          "q": "Did rider / driver do excessive Honking",
+          "yes": 1332,
+          "no": 168
+        },
+        {
+          "q": "Did rider / driver follow traffic singal",
+          "yes": 1300,
+          "no": 200
+        },
+        {
+          "q": "During red signal did rider / driver follow stop with stop line",
+          "yes": 1400,
+          "no": 100
+        },
+        {
+          "q": "Did rider / driver use cell phone while riding/driving",
+          "yes": 400,
+          "no": 1100
+        },
+        {
+          "q": "Did rider / driver frequently changed lanes",
+          "yes": 200,
+          "no": 1300
+        },
+        {
+          "q": "Did rider / driver drive in no entry",
+          "yes": 500,
+          "no": 1000
+        },
+        {
+          "q": "Did they give way to pedestrians",
+          "yes": 900,
+          "no": 600
+        },
+        {
+          "q": "If in auto did they over load the auto",
+          "yes": 1000,
+          "no": 500
+        },
+        {
+          "q": "If you were on two wheeler did you triple ride",
+          "yes": 1200,
+          "no": 300
+        }
+      ],
+      "RED ROSE SCHOOL LAMBAKHEDA": [
+        {
+          "q": "If on Two wheeler did the rider and pillion wear helmet",
+          "yes": 1625,
+          "no": 875
+        },
+        {
+          "q": "If in car did driver and passangers wear seat belt",
+          "yes": 1700,
+          "no": 800
+        },
+        {
+          "q": "Did rider / driver do excessive Honking",
+          "yes": 1950,
+          "no": 550
+        },
+        {
+          "q": "Did rider / driver follow traffic singal",
+          "yes": 1900,
+          "no": 600
+        },
+        {
+          "q": "During red signal did rider / driver follow stop with stop line",
+          "yes": 2100,
+          "no": 400
+        },
+        {
+          "q": "Did rider / driver use cell phone while riding/driving",
+          "yes": 800,
+          "no": 1700
+        },
+        {
+          "q": "Did rider / driver frequently changed lanes",
+          "yes": 600,
+          "no": 1900
+        },
+        {
+          "q": "Did rider / driver drive in no entry",
+          "yes": 1100,
+          "no": 1400
+        },
+        {
+          "q": "Did they give way to pedestrians",
+          "yes": 1680,
+          "no": 820
+        },
+        {
+          "q": "If in auto did they over load the auto",
+          "yes": 1850,
+          "no": 650
+        },
+        {
+          "q": "If you were on two wheeler did you triple ride",
+          "yes": 2050,
+          "no": 450
+        }
+      ],
+      "GOV. SCHOOL ANAND NAGAR": [
+        {
+          "q": "If on Two wheeler did the rider and pillion wear helmet",
+          "yes": 2050,
+          "no": 950
+        },
+        {
+          "q": "If in car did driver and passangers wear seat belt",
+          "yes": 2248,
+          "no": 752
+        },
+        {
+          "q": "Did rider / driver do excessive Honking",
+          "yes": 2365,
+          "no": 635
+        },
+        {
+          "q": "Did rider / driver follow traffic singal",
+          "yes": 2249,
+          "no": 751
+        },
+        {
+          "q": "During red signal did rider / driver follow stop with stop line",
+          "yes": 2644,
+          "no": 356
+        },
+        {
+          "q": "Did rider / driver use cell phone while riding/driving",
+          "yes": 800,
+          "no": 2200
+        },
+        {
+          "q": "Did rider / driver frequently changed lanes",
+          "yes": 625,
+          "no": 2375
+        },
+        {
+          "q": "Did rider / driver drive in no entry",
+          "yes": 1352,
+          "no": 1648
+        },
+        {
+          "q": "Did they give way to pedestrians",
+          "yes": 1859,
+          "no": 1141
+        },
+        {
+          "q": "If in auto did they over load the auto",
+          "yes": 1750,
+          "no": 1250
+        },
+        {
+          "q": "If you were on two wheeler did you triple ride",
+          "yes": 2144,
+          "no": 856
+        }
+      ],
+      "GOV. SCHOOL PIPLANI": [
+        {
+          "q": "If on Two wheeler did the rider and pillion wear helmet",
+          "yes": 1100,
+          "no": 400
+        },
+        {
+          "q": "If in car did driver and passangers wear seat belt",
+          "yes": 1080,
+          "no": 420
+        },
+        {
+          "q": "Did rider / driver do excessive Honking",
+          "yes": 1300,
+          "no": 200
+        },
+        {
+          "q": "Did rider / driver follow traffic singal",
+          "yes": 1150,
+          "no": 350
+        },
+        {
+          "q": "During red signal did rider / driver follow stop with stop line",
+          "yes": 1200,
+          "no": 300
+        },
+        {
+          "q": "Did rider / driver use cell phone while riding/driving",
+          "yes": 600,
+          "no": 900
+        },
+        {
+          "q": "Did rider / driver frequently changed lanes",
+          "yes": 300,
+          "no": 1200
+        },
+        {
+          "q": "Did rider / driver drive in no entry",
+          "yes": 600,
+          "no": 900
+        },
+        {
+          "q": "Did they give way to pedestrians",
+          "yes": 1000,
+          "no": 500
+        },
+        {
+          "q": "If in auto did they over load the auto",
+          "yes": 850,
+          "no": 650
+        },
+        {
+          "q": "If you were on two wheeler did you triple ride",
+          "yes": 1180,
+          "no": 320
+        }
+      ],
+      "GOV. SCHOOL MISROAD": [
+        {
+          "q": "If on Two wheeler did the rider and pillion wear helmet",
+          "yes": 1600,
+          "no": 900
+        },
+        {
+          "q": "If in car did driver and passangers wear seat belt",
+          "yes": 1775,
+          "no": 725
+        },
+        {
+          "q": "Did rider / driver do excessive Honking",
+          "yes": 2000,
+          "no": 500
+        },
+        {
+          "q": "Did rider / driver follow traffic singal",
+          "yes": 2100,
+          "no": 400
+        },
+        {
+          "q": "During red signal did rider / driver follow stop with stop line",
+          "yes": 2200,
+          "no": 300
+        },
+        {
+          "q": "Did rider / driver use cell phone while riding/driving",
+          "yes": 750,
+          "no": 1750
+        },
+        {
+          "q": "Did rider / driver frequently changed lanes",
+          "yes": 650,
+          "no": 1850
+        },
+        {
+          "q": "Did rider / driver drive in no entry",
+          "yes": 1300,
+          "no": 1200
+        },
+        {
+          "q": "Did they give way to pedestrians",
+          "yes": 1700,
+          "no": 800
+        },
+        {
+          "q": "If in auto did they over load the auto",
+          "yes": 1875,
+          "no": 625
+        },
+        {
+          "q": "If you were on two wheeler did you triple ride",
+          "yes": 2123,
+          "no": 327
+        }
+      ],
+      "GOV. SCHOOL JAMUNIYA": [
+        {
+          "q": "If on Two wheeler did the rider and pillion wear helmet",
+          "yes": 750,
+          "no": 250
+        },
+        {
+          "q": "If in car did driver and passangers wear seat belt",
+          "yes": 723,
+          "no": 277
+        },
+        {
+          "q": "Did rider / driver do excessive Honking",
+          "yes": 812,
+          "no": 188
+        },
+        {
+          "q": "Did rider / driver follow traffic singal",
+          "yes": 850,
+          "no": 150
+        },
+        {
+          "q": "During red signal did rider / driver follow stop with stop line",
+          "yes": 900,
+          "no": 100
+        },
+        {
+          "q": "Did rider / driver use cell phone while riding/driving",
+          "yes": 250,
+          "no": 750
+        },
+        {
+          "q": "Did rider / driver frequently changed lanes",
+          "yes": 125,
+          "no": 875
+        },
+        {
+          "q": "Did rider / driver drive in no entry",
+          "yes": 300,
+          "no": 700
+        },
+        {
+          "q": "Did they give way to pedestrians",
+          "yes": 600,
+          "no": 400
+        },
+        {
+          "q": "If in auto did they over load the auto",
+          "yes": 700,
+          "no": 300
+        },
+        {
+          "q": "If you were on two wheeler did you triple ride",
+          "yes": 800,
+          "no": 200
+        }
+      ],
+      "GOV. SCHOOL BUGIRDAS": [
+        {
+          "q": "If on Two wheeler did the rider and pillion wear helmet",
+          "yes": 1248,
+          "no": 752
+        },
+        {
+          "q": "If in car did driver and passangers wear seat belt",
+          "yes": 1315,
+          "no": 685
+        },
+        {
+          "q": "Did rider / driver do excessive Honking",
+          "yes": 1605,
+          "no": 395
+        },
+        {
+          "q": "Did rider / driver follow traffic singal",
+          "yes": 1355,
+          "no": 645
+        },
+        {
+          "q": "During red signal did rider / driver follow stop with stop line",
+          "yes": 1900,
+          "no": 100
+        },
+        {
+          "q": "Did rider / driver use cell phone while riding/driving",
+          "yes": 600,
+          "no": 1400
+        },
+        {
+          "q": "Did rider / driver frequently changed lanes",
+          "yes": 400,
+          "no": 1600
+        },
+        {
+          "q": "Did rider / driver drive in no entry",
+          "yes": 650,
+          "no": 1350
+        },
+        {
+          "q": "Did they give way to pedestrians",
+          "yes": 1200,
+          "no": 800
+        },
+        {
+          "q": "If in auto did they over load the auto",
+          "yes": 1450,
+          "no": 550
+        },
+        {
+          "q": "If you were on two wheeler did you triple ride",
+          "yes": 1600,
+          "no": 400
+        }
+      ],
+      "ST. AGSTAYN": [
+        {
+          "q": "If on Two wheeler did the rider and pillion wear helmet",
+          "yes": 733,
+          "no": 267
+        },
+        {
+          "q": "If in car did driver and passangers wear seat belt",
+          "yes": 832,
+          "no": 168
+        },
+        {
+          "q": "Did rider / driver do excessive Honking",
+          "yes": 715,
+          "no": 285
+        },
+        {
+          "q": "Did rider / driver follow traffic singal",
+          "yes": 765,
+          "no": 235
+        },
+        {
+          "q": "During red signal did rider / driver follow stop with stop line",
+          "yes": 877,
+          "no": 123
+        },
+        {
+          "q": "Did rider / driver use cell phone while riding/driving",
+          "yes": 347,
+          "no": 653
+        },
+        {
+          "q": "Did rider / driver frequently changed lanes",
+          "yes": 127,
+          "no": 873
+        },
+        {
+          "q": "Did rider / driver drive in no entry",
+          "yes": 236,
+          "no": 764
+        },
+        {
+          "q": "Did they give way to pedestrians",
+          "yes": 635,
+          "no": 365
+        },
+        {
+          "q": "If in auto did they over load the auto",
+          "yes": 650,
+          "no": 350
+        },
+        {
+          "q": "If you were on two wheeler did you triple ride",
+          "yes": 732,
+          "no": 268
+        }
+      ],
+      "NAVEEN GOV. SCHOOL": [
+        {
+          "q": "If on Two wheeler did the rider and pillion wear helmet",
+          "yes": 1100,
+          "no": 400
+        },
+        {
+          "q": "If in car did driver and passangers wear seat belt",
+          "yes": 1050,
+          "no": 450
+        },
+        {
+          "q": "Did rider / driver do excessive Honking",
+          "yes": 1200,
+          "no": 300
+        },
+        {
+          "q": "Did rider / driver follow traffic singal",
+          "yes": 1400,
+          "no": 100
+        },
+        {
+          "q": "During red signal did rider / driver follow stop with stop line",
+          "yes": 1350,
+          "no": 150
+        },
+        {
+          "q": "Did rider / driver use cell phone while riding/driving",
+          "yes": 300,
+          "no": 1200
+        },
+        {
+          "q": "Did rider / driver frequently changed lanes",
+          "yes": 150,
+          "no": 1350
+        },
+        {
+          "q": "Did rider / driver drive in no entry",
+          "yes": 400,
+          "no": 1100
+        },
+        {
+          "q": "Did they give way to pedestrians",
+          "yes": 800,
+          "no": 700
+        },
+        {
+          "q": "If in auto did they over load the auto",
+          "yes": 1100,
+          "no": 400
+        },
+        {
+          "q": "If you were on two wheeler did you triple ride",
+          "yes": 1250,
+          "no": 250
+        }
+      ],
+      "GOV. SCHOOL KOKTA": [
+        {
+          "q": "If on Two wheeler did the rider and pillion wear helmet",
+          "yes": 560,
+          "no": 240
+        },
+        {
+          "q": "If in car did driver and passangers wear seat belt",
+          "yes": 668,
+          "no": 132
+        },
+        {
+          "q": "Did rider / driver do excessive Honking",
+          "yes": 544,
+          "no": 256
+        },
+        {
+          "q": "Did rider / driver follow traffic singal",
+          "yes": 700,
+          "no": 100
+        },
+        {
+          "q": "During red signal did rider / driver follow stop with stop line",
+          "yes": 623,
+          "no": 177
+        },
+        {
+          "q": "Did rider / driver use cell phone while riding/driving",
+          "yes": 200,
+          "no": 600
+        },
+        {
+          "q": "Did rider / driver frequently changed lanes",
+          "yes": 123,
+          "no": 577
+        },
+        {
+          "q": "Did rider / driver drive in no entry",
+          "yes": 200,
+          "no": 600
+        },
+        {
+          "q": "Did they give way to pedestrians",
+          "yes": 700,
+          "no": 100
+        },
+        {
+          "q": "If in auto did they over load the auto",
+          "yes": 650,
+          "no": 150
+        },
+        {
+          "q": "If you were on two wheeler did you triple ride",
+          "yes": 700,
+          "no": 100
+        }
+      ],
+      "GOV. HR. SEC SCHOOL NARELA": [
+        {
+          "q": "If on Two wheeler did the rider and pillion wear helmet",
+          "yes": 1077,
+          "no": 423
+        },
+        {
+          "q": "If in car did driver and passangers wear seat belt",
+          "yes": 1032,
+          "no": 468
+        },
+        {
+          "q": "Did rider / driver do excessive Honking",
+          "yes": 1265,
+          "no": 235
+        },
+        {
+          "q": "Did rider / driver follow traffic singal",
+          "yes": 1262,
+          "no": 238
+        },
+        {
+          "q": "During red signal did rider / driver follow stop with stop line",
+          "yes": 1357,
+          "no": 143
+        },
+        {
+          "q": "Did rider / driver use cell phone while riding/driving",
+          "yes": 512,
+          "no": 988
+        },
+        {
+          "q": "Did rider / driver frequently changed lanes",
+          "yes": 132,
+          "no": 1368
+        },
+        {
+          "q": "Did rider / driver drive in no entry",
+          "yes": 600,
+          "no": 900
+        },
+        {
+          "q": "Did they give way to pedestrians",
+          "yes": 968,
+          "no": 532
+        },
+        {
+          "q": "If in auto did they over load the auto",
+          "yes": 977,
+          "no": 523
+        },
+        {
+          "q": "If you were on two wheeler did you triple ride",
+          "yes": 1075,
+          "no": 425
+        }
+      ],
+      "GURU NANAK PUBLIC SCHOOL": [
+        {
+          "q": "If on Two wheeler did the rider and pillion wear helmet",
+          "yes": 1070,
+          "no": 430
+        },
+        {
+          "q": "If in car did driver and passangers wear seat belt",
+          "yes": 1050,
+          "no": 550
+        },
+        {
+          "q": "Did rider / driver do excessive Honking",
+          "yes": 1370,
+          "no": 130
+        },
+        {
+          "q": "Did rider / driver follow traffic singal",
+          "yes": 1300,
+          "no": 200
+        },
+        {
+          "q": "During red signal did rider / driver follow stop with stop line",
+          "yes": 1400,
+          "no": 100
+        },
+        {
+          "q": "Did rider / driver use cell phone while riding/driving",
+          "yes": 332,
+          "no": 1168
+        },
+        {
+          "q": "Did rider / driver frequently changed lanes",
+          "yes": 323,
+          "no": 1177
+        },
+        {
+          "q": "Did rider / driver drive in no entry",
+          "yes": 585,
+          "no": 915
+        },
+        {
+          "q": "Did they give way to pedestrians",
+          "yes": 920,
+          "no": 580
+        },
+        {
+          "q": "If in auto did they over load the auto",
+          "yes": 1000,
+          "no": 500
+        },
+        {
+          "q": "If you were on two wheeler did you triple ride",
+          "yes": 1100,
+          "no": 400
+        }
+      ]
+    },
+    "updated_at": "2025-07-02T09:28:23.927025"
+  },
+  {
+    "chapter": "Hyderabad",
+    "data": {
+      "Akshara Model Schools": [
+        {
+          "q": "If on Two wheeler did the rider and pillion wear helmet",
+          "yes": 40,
+          "no": 60
+        },
+        {
+          "q": "If in car did driver and passangers wear seat belt",
+          "yes": 100,
+          "no": 0
+        },
+        {
+          "q": "Did rider / driver do excessive Honking",
+          "yes": 20,
+          "no": 80
+        },
+        {
+          "q": "Did rider / driver follow traffic singal",
+          "yes": 100,
+          "no": 0
+        },
+        {
+          "q": "During red signal did rider / driver follow stop with stop line",
+          "yes": 100,
+          "no": 0
+        },
+        {
+          "q": "Did rider / driver use cell phone while riding/driving",
+          "yes": 10,
+          "no": 90
+        },
+        {
+          "q": "Did rider / driver frequently changed lanes",
+          "yes": 40,
+          "no": 60
+        },
+        {
+          "q": "Did rider / driver drive in no entry",
+          "yes": 20,
+          "no": 80
+        },
+        {
+          "q": "Did they give way to pedestrians",
+          "yes": 100,
+          "no": 0
+        },
+        {
+          "q": "If in auto did they over load the auto",
+          "yes": 30,
+          "no": 70
+        },
+        {
+          "q": "If you were on two wheeler did you triple ride",
+          "yes": 40,
+          "no": 60
+        },
+        {
+          "q": "Did your rider/driver have driving licence and insurrance",
+          "yes": 100,
+          "no": 0
+        }
+      ],
+      "Solitaire Global School (Attapur)": [
+        {
+          "q": "If on Two wheeler did the rider and pillion wear helmet",
+          "yes": 80,
+          "no": 20
+        },
+        {
+          "q": "If in car did driver and passangers wear seat belt",
+          "yes": 100,
+          "no": 0
+        },
+        {
+          "q": "Did rider / driver do excessive Honking",
+          "yes": 0,
+          "no": 100
+        },
+        {
+          "q": "Did rider / driver follow traffic singal",
+          "yes": 100,
+          "no": 0
+        },
+        {
+          "q": "During red signal did rider / driver follow stop with stop line",
+          "yes": 100,
+          "no": 0
+        },
+        {
+          "q": "Did rider / driver use cell phone while riding/driving",
+          "yes": 20,
+          "no": 80
+        },
+        {
+          "q": "Did rider / driver frequently changed lanes",
+          "yes": 50,
+          "no": 50
+        },
+        {
+          "q": "Did rider / driver drive in no entry",
+          "yes": 0,
+          "no": 100
+        },
+        {
+          "q": "Did they give way to pedestrians",
+          "yes": 100,
+          "no": 0
+        },
+        {
+          "q": "If in auto did they over load the auto",
+          "yes": 20,
+          "no": 80
+        },
+        {
+          "q": "If you were on two wheeler did you triple ride",
+          "yes": 0,
+          "no": 100
+        },
+        {
+          "q": "Did your rider/driver have driving licence and insurrance",
+          "yes": 100,
+          "no": 0
+        }
+      ],
+      "Gowtham Model School (Srinagar Colony)": [
+        {
+          "q": "If on Two wheeler did the rider and pillion wear helmet",
+          "yes": 60,
+          "no": 40
+        },
+        {
+          "q": "If in car did driver and passangers wear seat belt",
+          "yes": 100,
+          "no": 0
+        },
+        {
+          "q": "Did rider / driver do excessive Honking",
+          "yes": 0,
+          "no": 100
+        },
+        {
+          "q": "Did rider / driver follow traffic singal",
+          "yes": 100,
+          "no": 0
+        },
+        {
+          "q": "During red signal did rider / driver follow stop with stop line",
+          "yes": 100,
+          "no": 0
+        },
+        {
+          "q": "Did rider / driver use cell phone while riding/driving",
+          "yes": 10,
+          "no": 90
+        },
+        {
+          "q": "Did rider / driver frequently changed lanes",
+          "yes": 30,
+          "no": 70
+        },
+        {
+          "q": "Did rider / driver drive in no entry",
+          "yes": 0,
+          "no": 100
+        },
+        {
+          "q": "Did they give way to pedestrians",
+          "yes": 100,
+          "no": 0
+        },
+        {
+          "q": "If in auto did they over load the auto",
+          "yes": 20,
+          "no": 80
+        },
+        {
+          "q": "If you were on two wheeler did you triple ride",
+          "yes": 0,
+          "no": 100
+        },
+        {
+          "q": "Did your rider/driver have driving licence and insurrance",
+          "yes": 100,
+          "no": 0
+        }
+      ],
+      "Solitaire Global School (Katedan)": [
+        {
+          "q": "If on Two wheeler did the rider and pillion wear helmet",
+          "yes": 90,
+          "no": 10
+        },
+        {
+          "q": "If in car did driver and passangers wear seat belt",
+          "yes": 100,
+          "no": 0
+        },
+        {
+          "q": "Did rider / driver do excessive Honking",
+          "yes": 0,
+          "no": 100
+        },
+        {
+          "q": "Did rider / driver follow traffic singal",
+          "yes": 100,
+          "no": 0
+        },
+        {
+          "q": "During red signal did rider / driver follow stop with stop line",
+          "yes": 100,
+          "no": 0
+        },
+        {
+          "q": "Did rider / driver use cell phone while riding/driving",
+          "yes": 0,
+          "no": 100
+        },
+        {
+          "q": "Did rider / driver frequently changed lanes",
+          "yes": 0,
+          "no": 100
+        },
+        {
+          "q": "Did rider / driver drive in no entry",
+          "yes": 0,
+          "no": 100
+        },
+        {
+          "q": "Did they give way to pedestrians",
+          "yes": 100,
+          "no": 0
+        },
+        {
+          "q": "If in auto did they over load the auto",
+          "yes": 0,
+          "no": 100
+        },
+        {
+          "q": "If you were on two wheeler did you triple ride",
+          "yes": 0,
+          "no": 100
+        },
+        {
+          "q": "Did your rider/driver have driving licence and insurrance",
+          "yes": 100,
+          "no": 0
+        }
+      ]
+    },
+    "updated_at": "2025-07-02T09:30:54.065058"
+  }
+]

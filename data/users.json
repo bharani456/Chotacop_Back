@@ -1,0 +1,44 @@
+[
+  {
+    "email": "kvel@vtyarns.com",
+    "user_id": "df92a148-c80a-44f1-a69d-013470f9f3bb",
+    "chapter": "erode",
+    "created_at": "2025-07-02T09:15:16.355296"
+  },
+  {
+    "email": "techcrivo@gmail.com",
+    "user_id": "ddabe165-64b4-46f1-b03b-aa2c3a9d0986",
+    "chapter": "ALL_Chapter",
+    "created_at": "2025-07-02T09:57:11.442769"
+  },
+  {
+    "email": "tlakshandpk@gmail.com",
+    "user_id": "ca5fe623-851d-4e94-87b0-b2af3f77dc79",
+    "chapter": "Madurai",
+    "created_at": "2025-07-02T09:59:48.228566"
+  },
+  {
+    "email": "kriswarya@gmail.com",
+    "user_id": "176e5a8d-e2b5-42a4-9ee1-c240595da85b",
+    "chapter": "Sivakasi",
+    "created_at": "2025-07-02T10:00:10.687025"
+  },
+  {
+    "email": "purnimaagarwal86@gmail.com",
+    "user_id": "1095244f-8c8a-42f6-a724-8f9a10a71775",
+    "chapter": "Hyderabad",
+    "created_at": "2025-07-02T10:00:32.208989"
+  },
+  {
+    "email": "hoshimareddy95@gmail.com",
+    "user_id": "2b0f4964-6f4d-4a2a-a287-5f84775ddcb6",
+    "chapter": "Tirupati",
+    "created_at": "2025-07-02T10:01:03.783417"
+  },
+  {
+    "email": "jprashanthimmanuel@live.com",
+    "user_id": "daecf542-97a9-46ce-9143-5f73f25aac2d",
+    "chapter": "Thoothukudi",
+    "created_at": "2025-07-02T10:01:27.235311"
+  }
+]
